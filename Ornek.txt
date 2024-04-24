@@ -1,2 +1,1 @@
-Çalışma dosyası
-Dal2 burası
+Çalışma dosyası DAL 1
